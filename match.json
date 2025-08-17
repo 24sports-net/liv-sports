@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "event_category": "FOOTBALL",
+    "match-details": "MANCHESTER CITY vs ARSENAL",
+    "time": "20/08/2025 | 10:30 P.M IST",
+    "end-time": "21/08/2025 | 12:30 A.M IST",
+    "feeds": [
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=111",
+        "buttonName": "TNT SPORTS 1 UK"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=112",
+        "buttonName": "PEACOCK USA"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=113",
+        "buttonName": "SONY LIV INDIA"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "event_category": "FOOTBALL",
+    "match-details": "REAL MADRID vs BARCELONA",
+    "time": "21/08/2025 | 01:30 A.M IST",
+    "end-time": "21/08/2025 | 03:30 A.M IST",
+    "feeds": [
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=221",
+        "buttonName": "ESPN LATAM"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=222",
+        "buttonName": "MOVISTAR SPAIN"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=223",
+        "buttonName": "VIAPLAY NORDIC"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "event_category": "FOOTBALL",
+    "match-details": "LIVERPOOL vs CHELSEA",
+    "time": "22/08/2025 | 08:00 P.M IST",
+    "end-time": "22/08/2025 | 10:00 P.M IST",
+    "feeds": [
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=331",
+        "buttonName": "SKY SPORTS UK"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=332",
+        "buttonName": "USA NETWORK"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=333",
+        "buttonName": "FUBO TV"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "event_category": "FOOTBALL",
+    "match-details": "KILMARNOCK vs LIVINGSTON",
+    "time": "23/08/2025 | 12:45 A.M IST",
+    "end-time": "23/08/2025 | 03:00 A.M IST",
+    "feeds": [
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=441",
+        "buttonName": "VIAPLAY SPORTS 1 UK"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=442",
+        "buttonName": "PREMIER SPORTS IRELAND"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=443",
+        "buttonName": "COSMOTE SPORTS GREECE"
+      }
+    ]
+  }
+]
