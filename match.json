@@ -2,6 +2,7 @@
   {
     "id": 1,
     "event_category": "FOOTBALL",
+    "tag": "FOOTBALL",
     "match-details": "MANCHESTER CITY vs ARSENAL",
     "date": "2025-08-17",
     "time": "19:30",
@@ -26,6 +27,7 @@
   {
     "id": 2,
     "event_category": "FOOTBALL",
+    "tag": "FOOTBALL",
     "match-details": "REAL MADRID vs BARCELONA",
     "date": "2025-08-21",
     "time": "01:30",
