@@ -24,6 +24,30 @@
     ]
   },
   {
+    "id": 5,
+    "tag": "BASKETBALL",
+    "match-details": "MANCHESTER CITY vs ARSENAL",
+    "date": "2025-08-17",
+    "time": "19:30",
+    "end-date": "2025-08-21",
+    "end-time": "00:30",
+    "timezone": "Asia/Kolkata",
+    "feeds": [
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=111",
+        "buttonName": "TNT SPORTS 1 UK"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=112",
+        "buttonName": "PEACOCK USA"
+      },
+      {
+        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=113",
+        "buttonName": "SONY LIV INDIA"
+      }
+    ]
+  },
+  {
     "id": 2,
     "tag": "FOOTBALL",
     "match-details": "REAL MADRID vs BARCELONA",
