@@ -2,6 +2,7 @@
   {
     "id": 1,
     "tag": "FOOTBALL",
+    "event_catergory": "FOOTBALL",
     "match-details": "MANCHESTER CITY vs ARSENAL",
     "date": "2025-08-17",
     "time": "19:30",
