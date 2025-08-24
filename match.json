@@ -6,7 +6,7 @@
     "match-details": "MANCHESTER CITY vs ARSENAL",
     "date": "2025-08-17",
     "time": "19:30",
-    "end-date": "2025-08-21",
+    "end-date": "2025-08-25",
     "end-time": "00:30",
     "timezone": "Asia/Kolkata",
     "feeds": [
@@ -30,7 +30,7 @@
     "match-details": "MANCHESTER CITY vs ARSENAL",
     "date": "2025-08-17",
     "time": "19:30",
-    "end-date": "2025-08-21",
+    "end-date": "2025-08-25",
     "end-time": "00:30",
     "timezone": "Asia/Kolkata",
     "feeds": [
@@ -54,7 +54,7 @@
     "match-details": "REAL MADRID vs BARCELONA",
     "date": "2025-08-21",
     "time": "01:30",
-    "end-date": "2025-08-21",
+    "end-date": "2025-08-25",
     "end-time": "03:30",
     "timezone": "Asia/Kolkata",
     "feeds": [
@@ -78,7 +78,7 @@
     "match-details": "LIVERPOOL vs CHELSEA",
     "date": "2025-08-23",
     "time": "20:00",
-    "end-date": "2025-08-23",
+    "end-date": "2025-08-25",
     "end-time": "22:00",
     "timezone": "Asia/Kolkata",
     "feeds": [
