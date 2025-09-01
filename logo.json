@@ -1,14 +1,1016 @@
 {
-  "KILMARNOCK": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kilmarnock_FC_crest.svg/1200px-Kilmarnock_FC_crest.svg.png",
-  "LIVINGSTON": "https://upload.wikimedia.org/wikipedia/en/9/95/Livingston_FC_logo.png",
-  "MALLORCA": "https://upload.wikimedia.org/wikipedia/en/4/47/Rcd_mallorca.svg",
-  "BARCELONA": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
-  "VFB STUTTGART": "https://upload.wikimedia.org/wikipedia/en/1/1d/VfB_Stuttgart_1893_Logo.svg",
-  "BAYERN MUNICH": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
-  "MANCHESTER CITY": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-  "MANCHESTER UNITED": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
-  "REAL MADRID": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-  "ARSENAL": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-  "CHELSEA": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-  "LIVERPOOL": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+  "AMARAVATI ROYALS": "https://cricketerstales.com/wp-content/uploads/2025/08/Amaravathi-Royals.png",
+
+"BHIMAVARAM BULLS": "https://cricketerstales.com/wp-content/uploads/2025/08/Bimavaram-Bulls.png",
+
+"KAKINADA KINGS": "https://cricketerstales.com/wp-content/uploads/2025/08/Kakinada-Kings.png",
+
+"ROYALS OF RAYALASEEMA": "https://cricketerstales.com/wp-content/uploads/2025/08/Royals-of-Rayalaseema.png",
+
+"SIMHADRI VIZAG LIONS": "https://cricketerstales.com/wp-content/uploads/2025/08/Simhadri-Vizag-Lions.png",
+
+"TUNGABHADRA WARRIORS": "https://cricketerstales.com/wp-content/uploads/2025/08/Tungabhadra-Warriors.png",
+
+"VIJAYAWADA SUNSHINERS": "https://cricketerstales.com/wp-content/uploads/2025/08/Vijaywada-Sunshiners.png",
+
+"BASTER BISONS": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/teams/758.png",
+
+"BILASPUR BULLS": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/teams/759.png",
+
+"RAIPUR RHINOS": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/teams/760.png",
+
+"RAIGARH LIONS": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/teams/761.png",
+
+"SURGUJA TIGERS": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/teams/757.png",
+
+"RAJANDGOAN PANTHARS": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/teams/762.png",
+
+"CENTRAL DELHI KINGS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/254.png",
+
+"EAST DELHI RIDERS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/252.png",
+
+"NEW DELHI TIGERS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/247.png",
+
+"NORTH DELHI STRIKERS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/249.png",
+
+"OUTER DELHI WARRIORS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/251.png",
+
+"PURANI DILLI": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/248.png",
+
+"SOUTHERN DELHI SUPERSTARZ": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/250.png",
+
+"WEST DELHI LIONS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/253.png",
+
+"CENTRAL DELHI QUEENS": "https://dplcontents.s3.ap-south-1.amazonaws.com/teamlogos/248.png",
+
+"TRIVANDRUM ROYALS": "https://i.postimg.cc/qqpqnbyt/trivandrum-royals.png",
+
+"KOCHI BLUE TIGERS": "https://i.postimg.cc/qvW7QM2H/Adobe-Express-file-4.png",
+
+"ARIES KOLLAM SAILORS": "https://i.postimg.cc/Tw63M7kk/Adobe-Express-file-5.png",
+
+"CALCUT GLOBSTARS": "https://i.postimg.cc/jqhLKTYy/Adobe-Express-file-6.png",
+
+"THRISSUR TITANS": "https://i.postimg.cc/15CXnKtt/Adobe-Express-file-7.png",
+
+"ALLEPPEY RIPPLES": "https://i.postimg.cc/Y9zqp6Zt/Adobe-Express-file-8.png",
+
+"MANGALORE DRAGONS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/365300/365305.png",
+
+"HUBLI TIGERS": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/343800/343858.png",
+
+"BENGALURU BLASTERS": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/343800/343852.png",
+
+"GULBARGA MYSTICS": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/343800/343854.png",
+
+"MYSORE WARRIORS": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/313400/313496.logo.png",
+
+"SHIVAMOGGA LIONS": "https://cricketerstales.com/wp-content/uploads/2025/08/Shivamogga-Lions.png",
+
+"REWA JAGUARS": "https://mpleaguet20.com/img/team-logos/rewa-jaguars-logo1.png",
+
+"CHAMBAL GADHIYALS": "https://mpleaguet20.com/img/team-logos/chambal-gadhiyals-logo1.png",
+
+"GWALIOR CHEETAH": "https://mpleaguet20.com/img/team-logos/gwalior-cheetah-logo1.png",
+
+"BHOPAL LEOPARDS": "https://mpleaguet20.com/img/team-logos/bhopal-leopards-logo1.png",
+
+"JABALPUR LIONS": "https://mpleaguet20.com/img/team-logos/jabalpur-lions-logo1.png",
+
+"BUNDELKHAND BULLS": "https://mpleaguet20.com/img/team-logos/bundelkhand-bulls-logo1.png",
+
+"INDORE PINK PANTHERS": "https://mpleaguet20.com/img/team-logos/indore-pink-panthers-logo1.png",
+"RAIGAD ROYALS": "https://mplt20.in/wp-content/themes/mpl/newassets/images/team1.png",
+
+"RATNAGIRI JETS": "https://mplt20.in/wp-content/themes/mpl/newassets/images/team2.png",
+
+"4S PUNERI BAPPA": "https://mplt20.in/wp-content/themes/mpl/newassets/images/team3.png",
+
+"EAGLE NASHIK TITANSS": "https://mplt20.in/wp-content/themes/mpl/newassets/images/team4.png",
+
+"SATARA WARRIORS": "https://mplt20.in/wp-content/themes/mpl/newassets/images/team5.png",
+
+"PBG KOLHAPUR TUSKERS": "https://mplt20.in/wp-content/themes/mpl/newassets/images/team6.png",
+
+"VILLIANUR MOHIT KINGS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/385700/385783.png",
+
+"YANAM ROYALS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/385700/385786.png",
+
+"WHITE TOWN GIANTS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/386000/386084.png",
+
+"MAHE MEGALO STRIKERS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/385700/385782.png",
+
+"OSSUDU ACCORD WARRIORS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/385700/385784.png",
+
+"KARAIKAL KNIGHTS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/385700/385781.png",
+
+"JK SUPER SRILERS": "https://i.postimg.cc/DzWpdphK/446814308-490780226853514-7361814057645003529-n.jpg",
+
+"TRIDENT STALLIONS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QV-0oR-2SlpGz96IlWF-20dJMcKCRhENyD8I6QGZd0GUjQiSGjNAtQ8&s=10",
+
+"ROYAL PHANTOMS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH_jN1qKOrEBihH9OTHZTeNEBt8J-lq2mPi_w7TzxmkGjoJdWWUnaDT4&s=10",
+
+"AGRI KINGS KNIGHTS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLOiPcnudJ1PvI7Tl9u6Qcr3zAmvHGG27-zFmrYSZxw6ShOqsRt6lVp5Tv&s=10",
+
+"BLV BLASTERS": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLT@2x.png",
+
+"INTERSOFT TITANS": "https://d1vd9vlqo1765y.cloudfront.net/flags/6576.webp",
+
+"BHILWARA BULLS": "https://i.postimg.cc/t4fwfn9P/366437513-242742111469843-3275419226458455655-n.png",
+
+"JODHPUR SUNRISERS": "https://i.postimg.cc/YSWZw2SP/get.png",
+
+"JAIPUR INDIANS": "https://i.postimg.cc/PxncfGp5/Screenshot-20250821-094027-Instagram.png",
+
+"JAANBAAZ KOTA CHALLENGERS": "https://i.postimg.cc/CKG4nkJy/369059327-793767909213537-3566641982777179284-n.png",
+
+"SHEKHAWATI SOLDIERS SIKAR": "https://i.postimg.cc/V64BDw3D/370509350-134367546403937-8871446303618417032-n.png",
+
+"UDAIPUR LAKECITY WARRIORS": "https://i.postimg.cc/HxT9wnPr/368110512-1773113526455786-3819761696406664238-n.png",
+"ANMOL KINGS HALAR": "https://saurashtraprot20.com/wp-content/uploads/2025/06/Anmol-Kings-Halar.png",
+
+"Dita Gohilwad Titans": "https://saurashtraprot20.com/wp-content/uploads/2025/06/Dita-Gohilwad-Titans.png",
+
+"Aryan Sorath Lions": "https://saurashtraprot20.com/wp-content/uploads/2025/06/Sorath.png",
+
+"JMD KUTCH RIDERS": "https://saurashtraprot20.com/wp-content/uploads/2025/06/JMD-Kutch.png",
+
+"ZALAWAD STRIKERS": "https://saurashtraprot20.com/wp-content/uploads/2025/06/Zalawad_Strikers1.png",
+
+"CHEPAUK SUPER GILLIES": "https://a.espncdn.com/i/teamlogos/cricket/500/1047327.png",
+
+"IDREAM TIRUPPUR TAMIZHANS": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/341500/341576.png",
+
+"DINDIGUL DRAGONS": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F1047339.png",
+
+"SKM SALEM SPARTANS": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/383300/383352.png",
+
+"NELLAI ROYAL KINGS": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/341400/341435.png",
+
+"SIECHEM MADURAI PANTHERS": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F1047341.png",
+
+"TRICHY GRAND CHOLAS": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/383300/383351.png",
+
+"LYCA KOVAI KINGS": "https://a.espncdn.com/i/teamlogos/cricket/500/1047335.png",
+
+"PITHORAGARH HURRICANES": "https://uplt20.com/_astro/ph-logo.BAr91Ad0_Zgzqp1.webp",
+
+"USN INDIANS": "https://uplt20.com/_astro/usn-logo.BTQ98nIB_1OiT4.webp",
+
+"DEHRADUN WARRIORS": "https://uplt20.com/_astro/dw-logo.DK1YI4Ag_1VYUIa.webp",
+
+"HARIDWAR SPRING ELMAS": "https://uplt20.com/_astro/hse-logo.DVAfjLsX_Z2nKhRx.webp",
+
+"NAINITAL SG PIPERS": "https://uplt20.com/_astro/nainital-logo._43Vh8FA_Z28n8Qi.webp",
+
+"GORAKHPUR LIONS": "https://gorakhpurlions.com/images/logo.png",
+
+"KANPUR SUPERSTARS": "https://seoresourcefactory.com/wp-content/uploads/2023/09/Kanpur-Superstars.png",
+
+"KASHI RUDRAS": "https://kashirudras.co.in/wp-content/uploads/2023/08/Homerun-logo-2G2WWT-1024x900.png",
+
+"LUCKNOW FALCONS": "https://img.cricketmazza.com/1724674584FC-LKO@2x.png",
+
+"MEERUT MAVERICKS": "https://seoresourcefactory.com/wp-content/uploads/2024/07/cropped-Untitled-design-3.png",
+
+"NOIDA KINGS": "https://i.postimg.cc/W307rfK6/451215851-1019162709863141-2349635134225840752-n.png",
+
+"AMI SUPER AVENGERS": "https://i.postimg.cc/fLh8H0GN/503244072-17844260115500668-1631738994736206863-n.png",
+
+"DIAMOND DAZZLERS": "https://i.postimg.cc/xdmsyPF5/499400681-17842385451497125-1017939970674225325-n.png",
+
+"PRUTHVI PANTHERS": "https://i.postimg.cc/0ybXrvYL/Adobe-Express-file-5.png",
+
+"A4 POWER STRIKERS": "https://i.postimg.cc/L8wC1Wvh/Adobe-Express-file-10.png",
+
+"ALEMBIC WARRIORS": "https://i.postimg.cc/CLv6F5qG/Adobe-Express-file-4.png",
+
+"BHARAT RANGERS": "https://vidarbhaprot20.com/wp-content/uploads/2025/05/bharat-rangers.webp",
+
+"NAGPUR HEROZ": "https://vidarbhaprot20.com/wp-content/uploads/2025/05/nagpur-heroz.webp",
+
+"NAGPUR TITANS": "https://vidarbhaprot20.com/wp-content/uploads/2025/05/titans.webp",
+
+"NECO MASTER BLASTER": "https://vidarbhaprot20.com/wp-content/uploads/2025/05/neco.webp",
+
+"ORANGE TIGERS": "https://vidarbhaprot20.com/wp-content/uploads/2025/05/orange-tigers.webp",
+
+"PAGARIYA STRIKERS": "https://vidarbhaprot20.com/wp-content/uploads/2025/05/pagariya.webp",
+
+"HARBOUR DIAMONDS": "https://bengalt20.com/wp-content/uploads/2024/05/HARBOUR-DIAMONDS-BPL-LOGO-1.png",
+
+"SERVITEC SILIGURI STRIKERS": "https://bengalt20.com/wp-content/uploads/2024/05/Siliguri.png",
+
+"SOBISCO SMASHERS MALDA": "https://bengalt20.com/wp-content/uploads/2024/05/Sobisco-smashers-_-Final-logo.png",
+
+"RASHMI MEDINIPUR WIZARDS": "https://bengalt20.com/wp-content/uploads/2024/05/Rashmi-Medinipur-Wizards.png",
+
+"SHRACHI RARH TIGERS": "https://bengalt20.com/wp-content/uploads/2025/06/Shraahi.png",
+
+"MURSHIDABAD KINGS & KUEENS": "https://bengalt20.com/wp-content/uploads/2024/06/mk-2.png",
+"LUX SHYAM KOLKATA TIGERS": "https://bengalt20.com/wp-content/uploads/2024/05/lux-shyam-1.png",
+
+"ADAMAS HOWRAH WARRIORS": "https://bengalt20.com/wp-content/uploads/2024/05/ADAMAS-HOWRAH-WARRIORS.png",
+
+"ENGLAND MASTERS": "https://static.wixstatic.com/media/ed4b76_19165740f41d4a6397bf3db8587e0ebc~mv2.png",
+
+"AUSTRALIA MASTERS": "https://static.wixstatic.com/media/ed4b76_412dcfdfa5f1425095f7ed0c65e738bf~mv2.png",
+
+"INDIA MASTERS": "https://static.wixstatic.com/media/ed4b76_e206cb2483274428b473060861268a5d~mv2.png",
+
+"WEST INDIES MASTERS": "https://static.wixstatic.com/media/ed4b76_3db900f5a30644d290e9525cd1e7cb1f~mv2.png",
+
+"SRI LANKA MASTERS": "https://static.wixstatic.com/media/ed4b76_34d9a151519b4b8e913de8498ca51174~mv2.png",
+
+"SOUTH AFRICA MASTERS": "https://static.wixstatic.com/media/ed4b76_c3e13ae6bd0546768dba36aaa15dd268~mv2.png",
+
+"CHENNAI SUPER KINGS: "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png",
+
+"MUMBAI INDIANS": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/800px-Mumbai_Indians_Logo.svg.png",
+
+"KOLKATA KNIGHT RIDERS": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+
+"SUNRISERS HYDERABAD": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sunrisers_Hyderabad_Logo.svg/800px-Sunrisers_Hyderabad_Logo.svg.png",
+
+"RAJASTHAN ROYALS": "https://i.postimg.cc/CMDHd1fy/627d0ef08a632ca996477ea4.png",
+
+"GUJARAT TITANS": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Gujarat_Titans_Logo.svg/1200px-Gujarat_Titans_Logo.svg.png",
+
+"ROYAL CHALLENGERS BENGALURU": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Royal_Challengers_Bengaluru_Logo.svg/800px-Royal_Challengers_Bengaluru_Logo.svg.png",
+
+"PUNJAB KINGS": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/1200px-Punjab_Kings_Logo.svg.png",
+
+"LUCKNOW SUPER GIANTS": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Lucknow_Super_Giants.png/revision/latest?cb=20240308135717",
+
+"DELHI CAPITALS": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Delhi_Capitals.svg/1200px-Delhi_Capitals.svg.png",
+
+"ADELAIDE STRIKERS": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Adelaide_Strikers_logo.svg/460px-Adelaide_Strikers_logo.svg.png",
+
+"HOBART HURRICANES": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Hobart_Hurricanes_logo.svg/460px-Hobart_Hurricanes_logo.svg.png",
+
+"MELBOURNE RENEGADES": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Melbourne_Renegades_Logo.svg/460px-Melbourne_Renegades_Logo.svg.png",
+
+"BRISBANE HEAT": "https://upload.wikimedia.org/wikipedia/en/8/89/Brisbane_heat.png",
+
+"SYDNEY SIXERS": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sydney_Sixers_logo.svg/460px-Sydney_Sixers_logo.svg.png",
+
+"SYDNEY THUNDERS": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Sydney_Thunder_logo.svg/460px-Sydney_Thunder_logo.svg.png",
+
+"PERTH SCORCHERS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Perth_Scorchers_logo.svg/460px-Perth_Scorchers_logo.svg.png",
+
+"MELBOURNE STARS": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Melbourne_Stars_logo.svg/460px-Melbourne_Stars_logo.svg.png",
+
+"ISLAMABAD UNITED": "https://images.seeklogo.com/logo-png/51/1/islamabad-united-logo-png_seeklogo-519944.png",
+
+"KARACHI KINGS": "https://images.seeklogo.com/logo-png/47/1/karachi-kings-logo-png_seeklogo-470951.png",
+
+"LAHORE QALANDARS": "https://images.seeklogo.com/logo-png/51/1/lahore-qalandars-logo-png_seeklogo-519947.png",
+
+"MULTAN SULTAN": "https://images.seeklogo.com/logo-png/51/1/multan-sultans-logo-png_seeklogo-519946.png",
+
+"PESHAWAR ZALMI": "https://images.seeklogo.com/logo-png/51/1/peshawar-zalmi-logo-png_seeklogo-519924.png",
+
+"QUETTA GLADIATORS": "https://images.seeklogo.com/logo-png/51/1/quetta-gladiators-logo-png_seeklogo-519942.png",
+"FORTUNE BARISHAL": "https://upload.wikimedia.org/wikipedia/en/e/ea/Fortune_Barishal.png",
+
+"CHITTAGONG KINGS": "https://r2.thesportsdb.com/images/media/team/badge/kbd9341734342594.png",
+
+"DHAKA CAPITALS": "https://upload.wikimedia.org/wikipedia/en/9/91/Dhaka_Capitals_-_Logo.png",
+
+"KHULNA TIGERS": "https://upload.wikimedia.org/wikipedia/en/7/7f/Khulna_Tigers.png",
+
+"DURBAR RAJSHAHI": "https://upload.wikimedia.org/wikipedia/en/2/20/Durbar_Rajshahi_-_Logo.png",
+
+"SYLHET STRIKERS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Sylhet_Strikers_logo.svg/800px-Sylhet_Strikers_logo.svg.png",
+
+"RANGPUR RIDERS": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Rangpur_Riders_logo.svg/1200px-Rangpur_Riders_logo.svg.png",
+
+"TRINBAGO KNIGHT RIDERS": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Trinbago_Knight_Riders_logo.svg/1200px-Trinbago_Knight_Riders_logo.svg.png",
+
+"SAINT LUCIA KINGS": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Saint_Lucia_Kings_svg_logo.svg/1200px-Saint_Lucia_Kings_svg_logo.svg.png",
+
+"BARBADOS ROYALS": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Barbados_Royals_Pink_Logo.svg/1200px-Barbados_Royals_Pink_Logo.svg.png",
+
+"ANTIGUA & BARBUDA FALCONS": "https://upload.wikimedia.org/wikipedia/en/8/83/Antigua_%26_Barbuda_Falcon.png",
+
+"ST KITTS & NEVIS PATRIOTS": "https://upload.wikimedia.org/wikipedia/en/d/dc/St_Kitts_and_Nevis_Patriots.png",
+
+"GUYANA AMAZON WARRIORS": "https://upload.wikimedia.org/wikipedia/en/e/eb/Guyana_Amazon_Warriors_%28logo%29.svg",
+
+"BRAMPTON WOLVES": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/363900/363942.png",
+
+"MONTREAL TIGERS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/313500/313563.logo.png",
+
+"TORONTO NATIONALS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/313500/313561.logo.png",
+
+"VANCOUVER KNIGHTS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/313500/313562.logo.png",
+
+"SURREY JAGUARS": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/363900/363940.png",
+
+"BANGLA TIGERS MISSISSAUGA": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/385400/385456.png",
+
+"B-LOVE KANDY": "https://www.lankapremierleaguet20.com/wp-content/uploads/2023/07/Kandy.png",
+
+"DAMBULLA AURA": "https://www.lankapremierleaguet20.com/wp-content/uploads/2023/07/Dambulla.png",
+
+"GALLE TITANS": "https://www.lankapremierleaguet20.com/wp-content/uploads/2023/07/Galle.png",
+
+"COLOMBO STRIKERS": "https://www.lankapremierleaguet20.com/wp-content/uploads/2023/07/Colombo-667x1024.png",
+
+"JAFFNA KINGS": "https://www.lankapremierleaguet20.com/wp-content/uploads/2023/07/Jaffna.png",
+
+"DURBAN SUPER KINGS": "https://media-cdn.incrowdsports.com/b78e715f-53dd-4a0b-86b6-1e7466dc8db1.png",
+
+"JOBURG SUPER KINGS": "https://media-cdn.incrowdsports.com/dbcb8a14-c960-4442-b269-c8aa65badce5.png",
+
+"MI CAPE TOWN": "https://media-cdn.incrowdsports.com/9edbb326-a937-4404-9f06-69461885636b.png",
+
+"PAARL ROYALS": "https://media-cdn.incrowdsports.com/57068ad3-f42b-471e-bd91-7ffc1f2fad0f.png",
+
+"PRETORIA CAPITALS": "https://media-cdn.incrowdsports.com/90577bf4-2d0f-41ab-817a-55be156eb819.png",
+
+"SUNRISERS EASTERN CAPE": "https://media-cdn.incrowdsports.com/ac9593af-80d0-4532-8716-548bf5ff839e.png",
+"ABU DHABI KNIGHT RIDERS": "https://www.ilt20.ae/static-assets/images/teams/3381.png",
+
+"DESERT VIPERS": "https://www.ilt20.ae/static-assets/images/teams/3380.png",
+
+"DUBAI CAPITALS": "https://www.ilt20.ae/static-assets/images/teams/3382.png",
+
+"GULF GIANTS": "https://www.ilt20.ae/static-assets/images/teams/3383.png",
+
+"MI EMIRATES": "https://www.ilt20.ae/static-assets/images/teams/3384.png",
+
+"SHARJAH WARRIORS": "https://www.ilt20.ae/static-assets/images/teams/3385.png",
+
+"LOS ANGELES KNIGHT RIDERS": "https://upload.wikimedia.org/wikipedia/en/e/e0/Los_Angeles_Knight_Riders_logo.png",
+
+"TEXAS SUPER KINGS": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Texas_Super_Kings_Logo.svg/1200px-Texas_Super_Kings_Logo.svg.png",
+
+"MI NEW YORK": "https://upload.wikimedia.org/wikipedia/en/2/2c/MI_New_York_logo.png",
+
+"SAN FRANCISCO UNICORNS": "https://i.namu.wiki/i/pyr0g_CQZJ73mO3fJ-nkcZSg50wbpHgkvOM7CjlCkY2joMQVWqu15qjHjSuBr4rxb9S53Sz2Xq6Gez7IHq3MFQ.webp",
+
+"SEATTLE ORCAS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Seattle_Orcas_Logo.svg/1200px-Seattle_Orcas_Logo.svg.png",
+
+"WASHINGTON FREEDOM": "https://upload.wikimedia.org/wikipedia/commons/4/47/Freedom_primary_white_bg.png",
+
+"BIRATNAGAR KING": "https://r2.thesportsdb.com/images/media/team/badge/cte81z1734167198.png",
+
+"CHITWAN RHINOS": "https://r2.thesportsdb.com/images/media/team/badge/n9nfrb1734167398.png",
+
+"JANAKPUR BOLTS": "https://r2.thesportsdb.com/images/media/team/badge/6251cz1734167520.png",
+
+"KARNALI YAKS": "https://r2.thesportsdb.com/images/media/team/badge/npjab21734167605.png",
+
+"KATHMANDU GURKH": "https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png",
+
+"LUMBINI LIONS": "https://r2.thesportsdb.com/images/media/team/badge/lnsxrg1734167854.png",
+
+"POKHARA AVENGER": "https://r2.thesportsdb.com/images/media/team/badge/019v1s1734167674.png",
+
+"SUDURPASCHIM RO": "https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png",
+
+"GUJARAT GIANTS": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Gujarat_Giants_WPL_logo.svg/800px-Gujarat_Giants_WPL_logo.svg.png",
+
+"UP WARRIORZ": "https://upload.wikimedia.org/wikipedia/en/a/a2/UP_Warriorz_Logo.webp",
+
+"ANDHRA PRADESH : "https://upload.wikimedia.org/wikipedia/en/6/6b/Andhra_Cricket_Association.png",
+
+"ARUNACHAL PRADESH": "https://upload.wikimedia.org/wikipedia/en/9/97/Arunachal_Cricket_Association_logo.png",
+
+"ASSAM": "https://upload.wikimedia.org/wikipedia/en/7/77/Logo_of_Assam_Cricket_Association.png",
+
+"BARODA": "https://upload.wikimedia.org/wikipedia/en/9/93/BarodaCricketAssociationLogo.png",
+
+"BIHAR": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Logo_Bihar_Cricket_Association.svg/460px-Logo_Bihar_Cricket_Association.svg.png",
+
+"CHHATTISGARH": "https://upload.wikimedia.org/wikipedia/en/2/20/ChhattisgarhStateCricketSanghLogo.jpg",
+
+"BENGAL": "https://upload.wikimedia.org/wikipedia/en/1/15/Logo_of_the_Cricket_Association_of_Bengal.png",
+
+"MIZORAM": "https://upload.wikimedia.org/wikipedia/en/7/7a/Cricket_Association_of_Mizoram_logo.png",
+
+"UTTARAKHAND": "https://upload.wikimedia.org/wikipedia/en/5/5e/Cricket_Association_of_Uttarakhand_logo.png",
+
+"DELHI: "https://upload.wikimedia.org/wikipedia/en/7/77/Delhi%26DistrictCricketAssociationLogo.png",
+
+"GOA": "https://upload.wikimedia.org/wikipedia/en/d/d1/GoaCricketAssociationLogo.png",
+
+"GUJARAT": "https://upload.wikimedia.org/wikipedia/en/f/f0/GujaratCricketAssociationLogo.jpg",
+
+"HARYANA": "https://upload.wikimedia.org/wikipedia/en/4/44/HaryanaCricketAssociationLogo.jpg",
+
+"HIMACHAL PRADESH": "https://upload.wikimedia.org/wikipedia/en/b/ba/HimachalPradeshCricketAssociationLogo.png",
+
+"HYDERABAD": "https://upload.wikimedia.org/wikipedia/en/8/89/Hyderabad-Cricket-Association-Logo.png",
+
+"JAMMU & KASHMIR": "https://upload.wikimedia.org/wikipedia/en/a/ac/Jammu_and_Kashmir_Cricket_Association_logo.png",
+
+"JHARKHAND": "https://upload.wikimedia.org/wikipedia/en/4/46/Jscajhask.jpg",
+
+"KARNATAKA": "https://upload.wikimedia.org/wikipedia/en/7/70/KarnatakaStateCricketAssociationLogo.png",
+"KERALA": "https://www.keralacricketassociation.com/wp-content/uploads/2021/07/KCA-LOGO.png",
+
+"MADHYA PRADESH : "https://upload.wikimedia.org/wikipedia/en/c/c4/Madhya_Pradesh_Cricket_Association_logo.png",
+
+"MAHARASHTRA": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Maharashtra_team_emblem.svg/460px-Maharashtra_team_emblem.svg.png",
+
+"MANIPUR": "https://upload.wikimedia.org/wikipedia/en/7/75/ManipurCricketAssociationLogo.png",
+
+"MEGHALAYA": "https://www.meghalayacricket.com/public/front_asset/images/logo.png",
+
+"MUMBAI": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Mumbai_cricket_team.svg/460px-Mumbai_cricket_team.svg.png",
+
+"NAGALAND": "https://upload.wikimedia.org/wikipedia/en/1/1d/NagalandCricketAssociationLogo.png",
+
+"ODISHA": "https://upload.wikimedia.org/wikipedia/en/1/18/OdishaCricketAssociationLogo.png",
+
+"PUNJAB": "https://upload.wikimedia.org/wikipedia/en/e/e1/PunjabCricketAssociationLogo.png",
+
+"RAILWAYS": "https://upload.wikimedia.org/wikipedia/en/d/d4/RailwaysSportsPromotionBoardLogo.png",
+
+"RAJASTHAN": "https://upload.wikimedia.org/wikipedia/en/9/91/RajasthanCricketAssociationLogo.gif",
+
+"SAURASHTRA": "https://upload.wikimedia.org/wikipedia/en/5/51/SaurashtraCricketAssociationLogo.png",
+
+"SERVICES": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Services_Sports_Control_Board.svg/460px-Services_Sports_Control_Board.svg.png",
+
+"SIKKIM": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/SICA_Logo.png/500px-SICA_Logo.png",
+
+"TAMIL NADU": "https://upload.wikimedia.org/wikipedia/en/0/0c/Tamil_Nadu_Cricket_Association.png",
+
+"TRIPURA": "https://upload.wikimedia.org/wikipedia/en/7/74/TripuraCricketAssociationLogo.png",
+
+"CHANDIGARH": "https://upload.wikimedia.org/wikipedia/en/6/6e/Union_Territory_Cricket_Association.jpeg",
+
+"UTTAR PRADESH : "https://upload.wikimedia.org/wikipedia/en/2/28/Uttarpradeshcricketassocation.png",
+
+"VIDARBHA": "https://upload.wikimedia.org/wikipedia/en/d/d0/VidarbhaCricketAssociationLogo.png",
+
+"PUDUCHERRY": "https://upload.wikimedia.org/wikipedia/en/d/de/CricketAssociationofPuducherryLogo.png",
+
+"AUCKLAND ACES": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Auckland_Aces_logo.svg/300px-Auckland_Aces_logo.svg.png",
+
+"CENTRAL STAGS": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Central_Stags_logo_transparent.png/260px-Central_Stags_logo_transparent.png",
+
+"NORTHERN BRAVE": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Northern_Brave_women%27s_cricket_logo.png/360px-Northern_Brave_women%27s_cricket_logo.png",
+
+"OTAGO VOLTS": "https://upload.wikimedia.org/wikipedia/en/f/f8/Otago_large.gif",
+
+"WELLINGTON FIREBIRDS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Wellington_Firebirds_logo.png/300px-Wellington_Firebirds_logo.png",
+
+"AUCKLAND HEARTS": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Auckland_Hearts_logo.jpg/460px-Auckland_Hearts_logo.jpg",
+
+"CANTERBURY MAGICIANS": "https://upload.wikimedia.org/wikipedia/en/6/6b/Canterbury_Magicians_logo.png",
+
+"CENTRAL DISTRICT HINDS": "https://upload.wikimedia.org/wikipedia/en/d/da/Central_Districts_Hinds_logo.png",
+
+"WELLINGTON BLAZE": "https://upload.wikimedia.org/wikipedia/en/a/aa/Wellington_Blaze_logo.jpeg",
+
+"OTAGO SPARKS": "https://upload.wikimedia.org/wikipedia/en/c/ce/Otago_Sparks_logo.png",
+
+"CANTERBURY KINGS": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/CanterburyKings.png/260px-CanterburyKings.png",
+"DURHAM": "https://i.postimg.cc/QCbT4Py1/Durham-Cricket-Logos-svg.png",
+
+"GLOUCESTERSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Gloucest_cricket_logo.png/300px-Gloucest_cricket_logo.png",
+
+"GLAMORGAN": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/GlamorganCCCLogo.svg/400px-GlamorganCCCLogo.svg.png",
+
+"ESSEX": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/EssexCountyCricketLogo2023.svg/300px-EssexCountyCricketLogo2023.svg.png",
+
+"DERBYSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Derbyshire_County_Cricket_Club_logo.svg/306px-Derbyshire_County_Cricket_Club_logo.svg.png",
+
+"HAMPSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/HampshireCCCLogoVector.svg/520px-HampshireCCCLogoVector.svg.png",
+
+"KENT": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/KentCCCLogo.svg/400px-KentCCCLogo.svg.png",
+
+"LANCASHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Lancashire_County_Cricket_Club_logo.svg/400px-Lancashire_County_Cricket_Club_logo.svg.png",
+
+"LEICESTERSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Leicestershire_County_Cricket_Club_logo.svg/460px-Leicestershire_County_Cricket_Club_logo.svg.png",
+
+"MIDDLESEX": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Middlesex_County_Cricket_Club_logo.svg/460px-Middlesex_County_Cricket_Club_logo.svg.png",
+
+"NORTHAMPTONSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/NorthamptonshireCCCLogo.svg/400px-NorthamptonshireCCCLogo.svg.png",
+
+"NOTTINGHAMSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/NottinghamshireCountyCricketClubLogo.svg/520px-NottinghamshireCountyCricketClubLogo.svg.png",
+
+"SOMERSET": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SomersetCCCLogo.svg/592px-SomersetCCCLogo.svg.png",
+
+"SURREY": "https://upload.wikimedia.org/wikipedia/en/b/b7/Logo_for_Surrey_County_Cricket_Club.jpg",
+
+"SUSSEX": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/SussexCCCLogo.svg/400px-SussexCCCLogo.svg.png",
+
+"WARWICKSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Warwickshire_County_Cricket_Club_logo.svg/300px-Warwickshire_County_Cricket_Club_logo.svg.png",
+
+"WORCESTERSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Worcestershire_County_Cricket_Club_logo.svg/300px-Worcestershire_County_Cricket_Club_logo.svg.png",
+
+"YORKSHIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Yorkshire_County_Cricket_Club_logo.svg/330px-Yorkshire_County_Cricket_Club_logo.svg.png",
+
+"BIRMINGHAM PHOENIX": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Birmingham_Phoenix_logo.svg/460px-Birmingham_Phoenix_logo.svg.png",
+
+"LONDON SPIRIT": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/London_Spirit_logo.svg/500px-London_Spirit_logo.svg.png",
+
+"NORTHERN SUPERCHARGERS": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Northern_Superchargers_logo.svg/460px-Northern_Superchargers_logo.svg.png",
+
+"MANCHESTER ORIGINALS": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Manchester_Originals_logo.svg/500px-Manchester_Originals_logo.svg.png",
+
+"OVAL INVINCIBLES": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Oval_Invincibles_logo.svg/500px-Oval_Invincibles_logo.svg.png",
+
+"SOUTHERN BRAVE": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Southern_Brave_logo.svg/460px-Southern_Brave_logo.svg.png",
+
+"TRENT ROCKETS": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Trent_Rockets_svg_logo.svg/500px-Trent_Rockets_svg_logo.svg.png",
+
+"WELSH FIRE": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Welsh_Fire_logo.svg/460px-Welsh_Fire_logo.svg.png",
+
+"LIVERPOOL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+
+"ARSENAL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",
+"MANCHESTER CITY": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+
+"MANCHESTER UNITED": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+
+"CHELSEA": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+
+"ASTON VILLA": "https://static.wikia.nocookie.net/premier-league-community/images/5/57/Aston_Villa.png/revision/latest/scale-to-width-down/1200?cb=20210107182348",
+
+"NEWCASTLE UNITED": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
+
+"CRYSTAL PALACE": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/962px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+
+"BRIGHTON & HOVE ALBION": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+
+"AFC BOURNEMOUTH": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+
+"NOTTINGHAM FOREST": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+
+"BRENTFORD": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/640px-Brentford_FC_crest.svg.png",
+
+"TOTTENHAM HOTSPUR": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/800px-Tottenham_Hotspur.svg.png",
+
+"EVERTON": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+
+"FULHAM": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
+
+"WEST HAM UNITED : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+
+"WOLVERHAMPTON WANDERERS": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+
+"BURNLEY": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/1200px-Burnley_FC_Logo.svg.png",
+
+"LLEDS UNITED": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+
+"SUNDERLAND": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/640px-Logo_Sunderland.svg.png",
+
+"INTER MILAN" : "https://img.legaseriea.it/vimages/62cef496/inter.png",
+
+"SSC NAPOLI": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/250px-SSC_Neapel.svg.png",
+
+"ATALANTA BC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+
+"AS ROMA": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/927px-AS_Roma_logo_%282017%29.svg.png",
+
+"JUVENTUS FC": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg",
+
+"SS LAZIO": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/1200px-S.S._Lazio_badge.svg.png",
+
+"BOLOGNA FC": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
+
+"CAGLIARI CALCIO": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Cagliari_Calcio_1920.svg/1200px-Cagliari_Calcio_1920.svg.png",
+
+"UDINESE CALCIO": "https://upload.wikimedia.org/wikipedia/eo/thumb/b/b1/Udinese_Calcio.svg/1200px-Udinese_Calcio.svg.png",
+
+"PARMA CALCIO": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/983px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
+
+"GENOA CFC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/1200px-Genoa_CFC_crest.svg.png",
+
+"TORINO FC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
+"COMO 1907": "https://upload.wikimedia.org/wikipedia/commons/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg",
+
+"ACF FIORENTINA": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+
+"AC MILAN": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+
+"US CREMONESE": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/1200px-US_Cremonese_logo.svg.png",
+
+"HELLAS VERONA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/1200px-Hellas_Verona_FC_logo_%282020%29.svg.png",
+
+"US SASSUOLO": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1200px-US_Sassuolo_Calcio_logo.svg.png",
+
+"PISA SC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/1200px-Pisa_SC_crest.svg.png",
+
+"US LECCE": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/US_Lecce_crest.svg/1200px-US_Lecce_crest.svg.png",
+
+"CAGLIARI CALCIO": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Cagliari_Calcio_1920.svg/1200px-Cagliari_Calcio_1920.svg.png",
+
+"FC BARCELONA": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/460px-FC_Barcelona_%28crest%29.svg.png",
+
+"REAL MADRID CF": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/340px-Real_Madrid_CF.svg.png",
+
+"ATLETICO DE MADRID": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png",
+
+"DEPORTIVO ALAVES": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/420px-Deportivo_Alaves_logo_%282020%29.svg.png",
+
+"ATHLETIC BILBAO": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/360px-Club_Athletic_Bilbao_logo.svg.png",
+
+"RC CELTA DE VIGO": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/300px-RC_Celta_de_Vigo_logo.svg.png",
+
+"ELCHE CF": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Elche_CF_logo.svg/340px-Elche_CF_logo.svg.png",
+
+"RCD ESPANYOL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/320px-RCD_Espanyol_crest.svg.png",
+
+"GETAFE CF": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/400px-Getafe_logo.svg.png",
+
+"GIRONA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/400px-Girona_FC_Logo.svg.png",
+
+"LEVANTE UD": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/360px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
+
+"RCD MALLORCA": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/340px-Rcd_mallorca.svg.png",
+
+"CA OSASUNA": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/330px-CA_Osasuna_2024_crest.svg.png",
+
+"REAL OVIEDO": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/210px-Real_Oviedo_logo.svg.png",
+
+"RAYO VALLECANO": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/420px-Rayo_Vallecano_logo.svg.png",
+
+"REAL BETIS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/460px-Real_betis_logo.svg.png",
+
+"REAL SOCIEDAD": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/370px-Real_Sociedad_logo.svg.png",
+
+"SEVILLA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/340px-Sevilla_FC_logo.svg.png",
+
+"VALENCIA CF": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/380px-Valenciacf.svg.png",
+
+"VILLARREAL CF": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/370px-Villarreal_CF_logo-en.svg.png",
+"ANGERS SCO": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Angers_SCO_logo.svg/340px-Angers_SCO_logo.svg.png",
+
+"AJ AUXERRE": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/310px-AJAuxerreLogo.svg.png",
+
+"STADE BRESTOIS 29": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Stade_Brestois_29_logo.svg/340px-Stade_Brestois_29_logo.svg.png",
+
+"LE HAVRE AC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Le_Havre_AC_logo.svg/340px-Le_Havre_AC_logo.svg.png",
+
+"RC LENS": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/310px-RC_Lens_logo.svg.png",
+
+"LILLE OSC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/430px-Lille_OSC_2018_logo.svg.png",
+
+"OLYMPIQUE LYONNAIS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/360px-Olympique_Lyonnais_logo.svg.png",
+
+"OLYMPIQUE DE MARSEILLE": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/400px-Olympique_Marseille_logo.svg.png",
+
+"AS MONACO FC": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/270px-LogoASMonacoFC2021.svg.png",
+
+"MONTPELLIER HSC": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/400px-Montpellier_HSC_logo.svg.png",
+
+"FC NANTES": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/330px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+
+"OGC NICE": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/340px-OGC_Nice_logo.svg.png",
+
+"PSG": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/420px-Paris_Saint-Germain_F.C..svg.png",
+
+"STADE DE REIMS": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/240px-Stade_de_Reims_logo.svg.png",
+
+"STADE RENNAIS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/380px-Stade_Rennais_FC.svg.png",
+
+"AS SAINT ETIENNE": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/AS_Saint-%C3%89tienne_logo.svg/360px-AS_Saint-%C3%89tienne_logo.svg.png",
+
+"RC STRASBOURG ALSACE": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/400px-Racing_Club_de_Strasbourg_logo.svg.png",
+
+"TOULOUSE FC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/400px-Toulouse_FC_2018_logo.svg.png",
+
+"FC AUGSBURG": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/290px-FC_Augsburg_logo.svg.png",
+
+"FC UNION BERLIN": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/500px-1._FC_Union_Berlin_Logo.svg.png",
+
+"SV WERDER BREMEN": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/320px-SV-Werder-Bremen-Logo.svg.png",
+
+"BORUSSIA DORTMUND": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/500px-Borussia_Dortmund_logo.svg.png",
+
+"EINTRACHT FRANKFURT": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/420px-Eintracht_Frankfurt_crest.svg.png",
+
+"SC FREIBURG": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/320px-SC_Freiburg_logo.svg.png",
+
+"HAMBURGER SV": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/500px-Hamburger_SV_logo.svg.png",
+
+"FC HEIDENHEIM 1846": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/330px-1._FC_Heidenheim_1846.svg.png",
+
+"TSG 1899 HOFFENHEIM": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/500px-Logo_TSG_Hoffenheim.svg.png",
+
+"FC KOLN": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/380px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+
+"RB LEIPZIG": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/620px-RB_Leipzig_2014_logo.svg.png",
+"BAYER LEVERKUSEN": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/480px-Bayer_04_Leverkusen_logo.svg.png",
+
+"FSV MAINZ": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mainz_05_crest.svg/440px-Mainz_05_crest.svg.png",
+
+"BORUSSIA MONCHENGLADBACH": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/330px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+
+"FC BAYERN MUNICH": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/500px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+
+"FC ST PAULI": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/400px-FC_St._Pauli_logo_%282018%29.svg.png",
+
+"VFB STUTTGART": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/380px-VfB_Stuttgart_1893_Logo.svg.png",
+
+"VFL WOLFSBURG": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/380px-VfL_Wolfsburg_Logo.svg.png",
+"RSX ANDERLECHT": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/R.S.C._Anderlecht.svg/380px-R.S.C._Anderlecht.svg.png",
+
+"ROYAL ANTWERP FC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Royal_Antwerp_Football_Club_logo.svg/300px-Royal_Antwerp_Football_Club_logo.svg.png",
+
+"CERCLE BRUGGE KSV": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Cercle_Brugge_2022.png/360px-Logo_Cercle_Brugge_2022.png",
+
+"ROYAL CHARLEROI SC": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/500px-Royal_Charleroi_Sporting_Club_logo.svg.png",
+
+"CLUB BRUGGE KV": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/400px-Club_Brugge_KV_logo.svg.png",
+
+"FCV DENDER EH": "https://upload.wikimedia.org/wikipedia/en/9/98/FCVDenderEH.png",
+
+"KRC GENK": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_KRC_Genk.png/330px-Logo_KRC_Genk.png",
+
+"KAA GENT": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/KAA_Gent_logo.svg/420px-KAA_Gent_logo.svg.png",
+
+"RAAL LA LOUVIERE": "https://upload.wikimedia.org/wikipedia/en/9/9d/RAAL_La_Louviere.png",
+
+"KV MECHELEN": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/KV_Mechelen_logo.svg/380px-KV_Mechelen_logo.svg.png",
+
+"OUD-HEVERLEE LEUVEN": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OH_LEUVEN.png/500px-OH_LEUVEN.png",
+
+"SINT TRUIDENSE VV": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
+
+"STANDARD LIEGE": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Standard_Li%C3%A8ge_logo.svg/310px-Standard_Li%C3%A8ge_logo.svg.png",
+
+"ROYALE UNION SAINT-GILLOISE": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
+
+"KVX WESTERLO": "https://upload.wikimedia.org/wikipedia/en/1/17/K.V.C._Westerlo_logo.png",
+
+"SV ZULTE WAREGEM": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Zulte-Waregem_logo.svg/360px-Zulte-Waregem_logo.svg.png",
+"MIDDLESBROUGH FC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/400px-Middlesbrough_FC_crest.svg.png",
+
+"WEST BROMWICH ALBION FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/340px-West_Bromwich_Albion.svg.png",
+
+"STOKE CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Stoke_City_FC_crest_2001.svg/350px-Stoke_City_FC_crest_2001.svg.png",
+
+"LEICESTER CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/400px-Leicester_City_crest.svg.png",
+
+"COVENTRY CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/290px-Coventry_City_FC_crest.svg.png",
+
+"BRISTOL CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/400px-Bristol_City_crest.svg.png",
+
+"SWANSEA CITY AFC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/420px-Swansea_City_AFC_logo.svg.png",
+
+"PORTSMOUTH FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/420px-Portsmouth_FC_logo.svg.png",
+
+"PRESTON NORTH END FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/430px-Preston_North_End_FC.svg.png",
+
+"BIRMINGHAM CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/320px-Birmingham_City_FC_logo.svg.png",
+
+"NORWICH CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Norwich_City_FC_logo.svg/340px-Norwich_City_FC_logo.svg.png",
+
+"MILLWALL FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/400px-Millwall_FC_crest.svg.png",
+
+"SOUTHAMPTON FC.": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/400px-FC_Southampton.svg.png",
+
+"WATFORD FC": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/380px-Watford.svg.png",
+
+"WREXHAM AFC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Wrexham_A.F.C._Logo.svg/300px-Wrexham_A.F.C._Logo.svg.png",
+
+"CHARLTON ATHLETIC FC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Charlton_Athletic_FC_crest.svg/400px-Charlton_Athletic_FC_crest.svg.png",
+
+"HULL CITY AFC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/340px-Hull_City_A.F.C._logo.svg.png",
+
+"QUEENS PARK RANGERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Queens_Park_Rangers_crest.svg/410px-Queens_Park_Rangers_crest.svg.png",
+
+"BLACKBURN ROVERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/380px-Blackburn_Rovers.svg.png",
+
+"IPSWICH TOWN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/340px-Ipswich_Town.svg.png",
+
+"DERBY COUNTY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/460px-Derby_County_crest.svg.png",
+
+"OXFORD UNITED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/360px-Oxford_United_FC_logo.svg.png",
+
+"SHEFFIELD WEDNESDAY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/280px-Sheffield_Wednesday_badge.svg.png",
+
+"SHEFFIELD UNITED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/400px-Sheffield_United_FC_logo.svg.png",
+"AFC WIMBLEDON": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AFC_Wimbledon_%282020%29_logo.svg/320px-AFC_Wimbledon_%282020%29_logo.svg.png",
+
+"BARNSLEY FC.": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Barnsley_FC.svg/548px-Barnsley_FC.svg.png",
+
+"BLACKPOOL FC": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Blackpool_FC_logo.svg/400px-Blackpool_FC_logo.svg.png",
+
+"BOLTON WANDERERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/380px-Bolton_Wanderers_FC_logo.svg.png",
+
+"BRADFORD CITY AFC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Bradford_City_AFC_crest.svg/320px-Bradford_City_AFC_crest.svg.png",
+
+"BURTON ALBION FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burton_Albion_FC_crest.svg/400px-Burton_Albion_FC_crest.svg.png",
+
+"CARDIFF CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/400px-Cardiff_City_crest.svg.png",
+
+"DONCASTER ROVERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/500px-Doncaster_Rovers_F.C._logo.svg.png",
+
+"EXETER CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Exeter_City_FC.svg/400px-Exeter_City_FC.svg.png"
+
+"HUDDERSFIELD TOWN AFC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huddersfield_Town_AFC_crest.svg/300px-Huddersfield_Town_AFC_crest.svg.png",
+
+"LEYTON ORIENT FC": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/400px-Leyton_Orient_F.C._logo.svg.png",
+
+"LINCOLN CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Lincoln_City_FC_2024_crest.svg/240px-Lincoln_City_FC_2024_crest.svg.png",
+
+"LUTON TOWN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/400px-Luton_Town_logo.svg.png",
+
+"MANSFIELD TOWN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Mansfield_Town_FC.svg/320px-Mansfield_Town_FC.svg.png",
+
+"NORTHAMPTON TOWN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Northampton_Town_F.C._logo.svg/300px-Northampton_Town_F.C._logo.svg.png",
+
+"PETERBOROUGH UNITED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Peterborough_United.svg/400px-Peterborough_United.svg.png",
+
+"PLYMOUTH ARGYLE FC": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/400px-Plymouth_Argyle_F.C._logo.svg.png",
+
+"PORT VALE FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Port_Vale_logo.svg/380px-Port_Vale_logo.svg.png",
+
+"READING FC": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/400px-Reading_FC.svg.png",
+
+"ROTHERHAM UNITED FC": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rotherhamunitedcentenarylogo.png",
+
+"STEVENAGE FC.": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Stevenage_FC_crest.svg/400px-Stevenage_FC_crest.svg.png",
+
+"STOCKPORT COUNTY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/400px-Stockport_County_FC_logo_2020.svg.png",
+
+"WIGAN ATHLETIC FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Wigan_Athletic.svg/400px-Wigan_Athletic.svg.png",
+
+"WYCOMBE WANDERERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wycombe_Wanderers_FC_logo.svg/420px-Wycombe_Wanderers_FC_logo.svg.png",
+"BENGALURU FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Bengaluru_FC_logo.svg/360px-Bengaluru_FC_logo.svg.png",
+
+"KERALA BLASTERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Kerala_Blasters_FC_logo.svg/400px-Kerala_Blasters_FC_logo.svg.png",
+
+"FC GOA": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/FC_Goa_logo.svg/420px-FC_Goa_logo.svg.png",
+
+"CHENNAIYIN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Chennaiyin_FC_logo.svg/460px-Chennaiyin_FC_logo.svg.png",
+
+"INTER KASHI FC": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Inter_Kashi_logo.svg/360px-Inter_Kashi_logo.svg.png",
+
+"EAST BENGAL FC": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/East_Bengal_FC_logo.svg/460px-East_Bengal_FC_logo.svg.png",
+
+"HYDERABAD FC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Hyderabad_Football_Club.svg/300px-Hyderabad_Football_Club.svg.png",
+
+"JAMSHEDPUR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Jamshedpur_FC_logo.svg/400px-Jamshedpur_FC_logo.svg.png",
+
+"MOHAMMEDAN SC": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Mohammedan_SC_%28Kolkata%29.svg/400px-Mohammedan_SC_%28Kolkata%29.svg.png",
+
+"MOHUN BAGAN SUPER GIANTS": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Mohun_Bagan_Super_Giant.svg/460px-Mohun_Bagan_Super_Giant.svg.png",
+
+"MUMBAI CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mumbai_City_FC_logo.svg/360px-Mumbai_City_FC_logo.svg.png",
+
+"NORTHEAST UNITED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/NorthEast_United_FC_logo.svg/300px-NorthEast_United_FC_logo.svg.png",
+
+"ODISHA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Odisha_FC_logo.svg/400px-Odisha_FC_logo.svg.png",
+
+"PUNJAB FC": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Punjab_Football_Club_logo.svg/2048px-Punjab_Football_Club_logo.svg.png",
+
+"AIZWAL FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Aizawl_Football_Club.svg/400px-Aizawl_Football_Club.svg.png",
+
+"CHANMARI FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Chanmari_FC.svg/460px-Chanmari_FC.svg.png",
+
+"CHURCHILL BROTHERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Churchill_Brothers.svg/460px-Churchill_Brothers.svg.png",
+
+"DEMPO SC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Dempo_Sports_Club.svg/360px-Dempo_Sports_Club.svg.png",
+
+"GOKULAM KERALA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Gokulam_Kerala_FC.svg/400px-Gokulam_Kerala_FC.svg.png",
+
+"DIAMOND HARBOUR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Diamond_Harbour_FC.svg/500px-Diamond_Harbour_FC.svg.png",
+
+"NAMDHARI FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Namdhari_FC_logo.svg/600px-Namdhari_FC_logo.svg.png",
+
+"RAJASTHAN UNITED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Rajasthan_United_FC.svg/400px-Rajasthan_United_FC.svg.png",
+
+"REAL KASHMIR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Real_Kashmir_FC.svg/460px-Real_Kashmir_FC.svg.png",
+
+"SHILLONG LAJONG FC": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Shillong_Lajong_FC.svg/400px-Shillong_Lajong_FC.svg.png",
+
+"SREENIDI DECCAN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Sreenidi_Deccan_FC.svg/400px-Sreenidi_Deccan_FC.svg.png",
+
+"BENGALURU UNITED": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/FC_Bengaluru_United.svg/400px-FC_Bengaluru_United.svg.png",
+
+"KARBI ANGLONG MORNING STAR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Karbi_Anglong_Morning_Star_FC.svg/600px-Karbi_Anglong_Morning_Star_FC.svg.png",
+
+"MIGHTY YOUNG JOE –GOALORIOUS MOTHERS SC": "https://upload.wikimedia.org/wikipedia/en/4/41/MYJ%E2%80%93GMSC_logo.png",
+
+"NEROCA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/NEROCA_FC_logo.svg/400px-NEROCA_FC_logo.svg.png",
+
+"SPORTING CG": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sporting_Clube_de_Goa.svg/400px-Sporting_Clube_de_Goa.svg.png",
+"UNITED SC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/United_Sports_Club.svg/400px-United_Sports_Club.svg.png",
+
+"CALICUT FC": "https://upload.wikimedia.org/wikipedia/en/c/c7/Calicut_FC.png",
+
+"FORCA KOCHI": "https://upload.wikimedia.org/wikipedia/en/0/0a/Forca_Kochi_FC_logo.png",
+
+"KANNUR WARRIORS": "https://upload.wikimedia.org/wikipedia/en/7/76/Kannur_Warriors_FC.png",
+
+"THIRUVANANTHAPURAM KOMBANS FC": "https://upload.wikimedia.org/wikipedia/en/d/d1/Thiruvananthapuram_Kombans.png",
+
+"MALAPPURAM FC": "https://upload.wikimedia.org/wikipedia/en/3/37/Malappuram_FC_logo.png",
+
+"THRISSUR MAGIC": "https://upload.wikimedia.org/wikipedia/en/1/14/Thrissur_Magic_FC_logo.png",
+"EINTRACHT BRAUNSCHWEIG": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Eintracht_Braunschweig_logo.svg/460px-Eintracht_Braunschweig_logo.svg.png",
+
+"HERTHA BSC": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/500px-Hertha_BSC_Logo_2012.svg.png",
+
+"SV Darmstadt 98": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/SV_Darmstadt_98_logo.svg/400px-SV_Darmstadt_98_logo.svg.png",
+
+"FORTUNA DUSSELDORF": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/500px-Fortuna_D%C3%BCsseldorf.svg.png",
+
+"SV ELVERSBERG": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SV_Elversberg_Logo_2021.svg/400px-SV_Elversberg_Logo_2021.svg.png",
+
+"SPVGG GREUTHER FURTH": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/SpVgg_Greuther_F%C3%BCrth_logo_%282017%29.svg/400px-SpVgg_Greuther_F%C3%BCrth_logo_%282017%29.svg.png",
+
+"HAMBURGER SV": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/500px-Hamburger_SV_logo.svg.png",
+
+"HANNOVER 96": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/500px-Hannover_96_Logo.svg.png",
+
+"FC KAISERSLAUTERN": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/420px-Logo_1_FC_Kaiserslautern.svg.png",
+
+"KARLSRUHER SC": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/500px-Karlsruher_SC_Logo_2.svg.png",
+
+"FC KOLN": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/380px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+
+"FC MAGDEBURG": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/500px-1._FC_Magdeburg.svg.png",
+
+"SC PREUBEN MUNSTER": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SC_Preu%C3%9Fen_M%C3%BCnster_logo_%282018%29.svg/400px-SC_Preu%C3%9Fen_M%C3%BCnster_logo_%282018%29.svg.png",
+
+"FC NURNBERG": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/400px-1._FC_N%C3%BCrnberg_logo.svg.png",
+
+"SC PADERBORN 07": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/SC_Paderborn_07_logo.svg/500px-SC_Paderborn_07_logo.svg.png",
+
+"SSV JAHN REGENSBURG": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/360px-Jahn_Regensburg_logo2014.svg.png",
+
+"FC SCHALKE 04": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/500px-FC_Schalke_04_Logo.svg.png",
+
+"SSV ULM 1846": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/SSV_Ulm_1846_Fussball.svg/330px-SSV_Ulm_1846_Fussball.svg.png",
+"AL SADD SC": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Al_Sadd_SC_logo.svg/320px-Al_Sadd_SC_logo.svg.png",
+
+"AL DUHAIL SC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Al-Duhail_SC_%28logo%29.svg/380px-Al-Duhail_SC_%28logo%29.svg.png",
+
+"AL RAYYAN SC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-Rayyan_SC_logo.svg/340px-Al-Rayyan_SC_logo.svg.png",
+
+"QATAR SC": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/QSC-Emblem-RGB.svg/500px-QSC-Emblem-RGB.svg.png",
+
+"AL ARABI SC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Al-Arabi_SC_Qatar_logo.svg/400px-Al-Arabi_SC_Qatar_logo.svg.png",
+
+"AL GHARAFA SC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Al-Gharafa_SC_logo.svg/500px-Al-Gharafa_SC_logo.svg.png",
+
+"AL WAKRAH SC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Al-Wakrah_SC_logo.svg/400px-Al-Wakrah_SC_logo.svg.png",
+
+"AL AHLI SAUDI FC": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/400px-Al_Ahli_Saudi_FC_logo.svg.png",
+
+"AL FATEH SC": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Fateh_SC_Logo.svg/500px-Al_Fateh_SC_Logo.svg.png",
+
+"AL ETTIFAQ FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Al-Ettifaq_FC_logo.svg/400px-Al-Ettifaq_FC_logo.svg.png",
+
+"AL HILAL SFC": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/330px-Al_Hilal_SFC_Logo.svg.png",
+
+"AL FAYHA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Al-Fayha_FC.svg/380px-Al-Fayha_FC.svg.png",
+
+"AL NASSR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Nassr_FC_Logo.svg/400px-Nassr_FC_Logo.svg.png",
+
+"AL ITTIHAD CLUB": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Al-Ittihad_Club_%28Jeddah%29_logo.svg/350px-Al-Ittihad_Club_%28Jeddah%29_logo.svg.png",
+
+"AL KHALEEJ FC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Al-Khaleej_FC_Logo.svg/360px-Al-Khaleej_FC_Logo.svg.png",
+
+"AL OKHDOOD CLUB": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Al-Okhdood_Club.svg/290px-Al-Okhdood_Club.svg.png",
+
+"AL OROBAH FC": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Al-Orobah_Logo.svg/230px-Al-Orobah_Logo.svg.png",
+
+"AL QADSIAH FC": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al-Qadsiah_Logo.svg/250px-Al-Qadsiah_Logo.svg.png",
+
+"AL RAED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Al_Raed_FC.svg/300px-Al_Raed_FC.svg.png",
+
+"AL RIYADH SC": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Al-Riyadh_SC.svg/330px-Al-Riyadh_SC.svg.png",
+
+"AL SHADAB FC": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Al_Shabab_FC_%28Riyadh%29.svg/400px-Al_Shabab_FC_%28Riyadh%29.svg.png",
+
+"AL TAAWOUN FC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Al_Taawoun_FC_Logo.svg/340px-Al_Taawoun_FC_Logo.svg.png",
+
+"AL WEHDA FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Al_Wehda_FC_Logo.svg/400px-Al_Wehda_FC_Logo.svg.png",
+
+"DAMAC FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Damac_FC_Logo.svg/400px-Damac_FC_Logo.svg.png",
+"ADELAIDE UNITED FC": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Adelaide_United_FC_logo.svg/400px-Adelaide_United_FC_logo.svg.png",
+
+"BRISBANE ROAR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Brisbane_Roar_FC_logo.svg/360px-Brisbane_Roar_FC_logo.svg.png",
+
+"AUCKLAND FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Auckland_FC_crest.svg/300px-Auckland_FC_crest.svg.png",
+
+"MELBOURNE CITY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Melbourne_City_FC.svg/420px-Melbourne_City_FC.svg.png",
+
+"CENTRAL COAST MARINERS": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Central_Coast_Mariners_logo.svg/380px-Central_Coast_Mariners_logo.svg.png",
+
+"MACARTHUR FC": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Macarthur_FC_logo.svg/360px-Macarthur_FC_logo.svg.png",
+
+"PERTH GLORY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Perth_Glory_FC_logo.svg/400px-Perth_Glory_FC_logo.svg.png",
+
+"NEWCASTLE UNITED JETS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/398px-Newcastle_United_Jets_Logo.svg.png",
+
+"MELBOURNE VICTORY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Melbourne_Victory.svg/400px-Melbourne_Victory.svg.png",
+
+"SYDNEY FC": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Sydney_FC_Logo.svg/320px-Sydney_FC_Logo.svg.png",
+
+"WELLINGTON PHOENIX FC": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Wellington_Phoenix_FC_logo.svg/300px-Wellington_Phoenix_FC_logo.svg.png",
+
+"WESTERN SYDNEY WANDERERS FC": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Logo_of_Western_Sydney_Wanderers_FC.svg/400px-Logo_of_Western_Sydney_Wanderers_FC.svg.png"
 }
