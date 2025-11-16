@@ -1,103 +1,103 @@
 [
-  {
-    "id": 1,
-    "tag": "FOOTBALL",
-    "event_catergory": "FOOTBALL",
-    "Team-A": "MALLORCA",
-    "Team-B": "BAYERN MUNICH",
-    "date": "2025-09-25",
-    "time": "19:30",
-    "end-date": "2025-11-25",
-    "end-time": "00:30",
-    "timezone": "Asia/Kolkata",
-    "feeds": [
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=111",
-        "buttonName": "TNT SPORTS 1 UK"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=112",
-        "buttonName": "PEACOCK USA"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=113",
-        "buttonName": "SONY LIV INDIA"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "tag": "BASKETBALL",
-    "Team-A": "MANCHESTER CITY",
-    "Team-B": "ARSENAL",
-    "date": "2025-09-17",
-    "time": "19:30",
-    "end-date": "2025-11-26",
-    "end-time": "00:30",
-    "timezone": "Asia/Kolkata",
-    "feeds": [
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=111",
-        "buttonName": "TNT SPORTS 1 UK"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=112",
-        "buttonName": "PEACOCK USA"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=113",
-        "buttonName": "SONY LIV INDIA"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "tag": "FOOTBALL",
-    "Team-A": "BARCELONA",
-    "Team-B": "REAL MADRID",
-    "date": "2025-09-22",
-    "time": "01:30",
-    "end-date": "2025-09-23",
-    "end-time": "03:30",
-    "timezone": "Asia/Kolkata",
-    "feeds": [
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=221",
-        "buttonName": "ESPN LATAM"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=222",
-        "buttonName": "MOVISTAR SPAIN"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=223",
-        "buttonName": "VIAPLAY NORDIC"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "tag": "FOOTBALL",
-    "Team-A": "LIVERPOOL",
-    "Team-B": "CHELSEA",
-    "date": "2025-09-16",
-    "time": "20:00",
-    "end-date": "2025-09-27",
-    "end-time": "22:00",
-    "timezone": "Asia/Kolkata",
-    "feeds": [
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=331",
-        "buttonName": "SKY SPORTS UK"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=332",
-        "buttonName": "USA NETWORK"
-      },
-      {
-        "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=333",
-        "buttonName": "FUBO TV"
-      }
-    ]
-  }
+    {
+        "id": 1,
+        "tag": "FOOTBALL",
+        "event_catergory": "FOOTBALL",
+        "Team-A": "MALLORCA",
+        "Team-B": "BAYERN MUNICH",
+        "date": "2025-09-25",
+        "time": "19:30",
+        "end-date": "2025-11-25",
+        "end-time": "00:30",
+        "timezone": "Asia/Kolkata",
+        "feeds": [
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=111",
+                "buttonName": "TNT SPORTS 1 UK"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=112",
+                "buttonName": "PEACOCK USA"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=113",
+                "buttonName": "SONY LIV INDIA"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tag": "BASKETBALL",
+        "Team-A": "MANCHESTER CITY",
+        "Team-B": "ARSENAL",
+        "date": "2025-09-17",
+        "time": "19:30",
+        "end-date": "2025-11-26",
+        "end-time": "00:30",
+        "timezone": "Asia/Kolkata",
+        "feeds": [
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=111",
+                "buttonName": "TNT SPORTS 1 UK"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=112",
+                "buttonName": "PEACOCK USA"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=113",
+                "buttonName": "SONY LIV INDIA"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "FOOTBALL",
+        "Team-A": "BARCELONA",
+        "Team-B": "REAL MADRID",
+        "date": "2025-09-22",
+        "time": "01:30",
+        "end-date": "2025-09-23",
+        "end-time": "03:30",
+        "timezone": "Asia/Kolkata",
+        "feeds": [
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=221",
+                "buttonName": "ESPN LATAM"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=222",
+                "buttonName": "MOVISTAR SPAIN"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=223",
+                "buttonName": "VIAPLAY NORDIC"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tag": "FOOTBALL",
+        "Team-A": "LIVERPOOL",
+        "Team-B": "CHELSEA",
+        "date": "2025-09-16",
+        "time": "20:00",
+        "end-date": "2025-09-27",
+        "end-time": "22:00",
+        "timezone": "Asia/Kolkata",
+        "feeds": [
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=331",
+                "buttonName": "SKY SPORTS UK"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=332",
+                "buttonName": "USA NETWORK"
+            },
+            {
+                "url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=333",
+                "buttonName": "FUBO TV"
+            }
+        ]
+    }
 ]
